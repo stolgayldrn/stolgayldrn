@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Recommender System**, specifically **Multi-task Learning, MMoE** and also and also **Natural Language Processing**, specifically **Keyword Extraction and Text Classification**
+- 🔭 I’m currently working on **Recommender System**, specifically **Multi-task Learning, MMoE** and also **Natural Language Processing**, specifically **Keyword Extraction and Text Classification**
 
 - 🌱 I’m currently learning **MLOps, Data Pipeline**
 
