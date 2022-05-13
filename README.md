@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S.Tolga YILDIRAN/h1>
+<h1 align="center">Hi 👋, I'm S.Tolga YILDIRAN</h1>
 <h3 align="center">Sr. Data Scientist, Recommender Systems and Natural Language Processing Researcher</h3>
 
 
