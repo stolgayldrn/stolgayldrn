@@ -11,5 +11,5 @@
 
 - 📫 How to reach me **stolgayldrn@gmail.com** or seyfettin.tolga.yildiran@huawei.com
 
-- ⭐ Self-driven, self-motivated and Lifelong Learner
+- ⭐ Self-driven, self-motivated and lifelong learner
 
