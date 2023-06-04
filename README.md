@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PyTorch, Data Science, Recommender Systems, NLP**
 
-- 📫 How to reach me **stolgayldrn@gmail.com** or seyfettin.tolga.yildiran@huawei.com
+- 📫 How to reach me **stolgayldrn@gmail.com** or seyfettin.tolga.yildiran1@huawei.com
 
 - ⭐ Self-driven, self-motivated and lifelong learner
 
