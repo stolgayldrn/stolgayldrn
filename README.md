@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S.Tolga YILDIRAN</h1>
-<h3 align="center">Sr. ML Enigneer, Recommender Systems and Natural Language Processing Researcher</h3>
+<h3 align="center">Sr. ML Enigneer, LLM, Recommender Systems and Natural Language Processing Researcher</h3>
 
 
 
