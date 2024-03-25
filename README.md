@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **Recommender System**, specifically **Multi-task Learning, MMoE** and also **Natural Language Processing**, specifically **Topic Modeling, Keyword Extraction and Text Classification**
+- 🔭 I’m currently working on **SaaS for LLM**, specifically **Multi-task classification, RAG** and also **Natural Language Processing**, specifically **Topic Modeling, Keyword Extraction and Text Classification**
 
 - 🌱 I’m currently learning **MLOps, Data Pipeline**
 
 - 💬 Ask me about **PyTorch, Data Science, Recommender Systems, NLP**
 
-- 📫 How to reach me **stolgayldrn@gmail.com** or seyfettin.tolga.yildiran1@huawei.com
+- 📫 How to reach me **stolgayldrn@gmail.com** 
 
 - ⭐ Self-driven, self-motivated and lifelong learner
 
