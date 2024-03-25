@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **SaaS for LLM**, specifically **Multi-task classification, RAG** and also **Natural Language Processing**, specifically **Topic Modeling, Keyword Extraction and Text Classification**
+- 🔭 I’m currently working on **SaaS with LLM**, specifically **Multi-task classification, RAG** and also **Natural Language Processing**, specifically **Topic Retrieval, Keyword Extraction and Text Classification**
 
 - 🌱 I’m currently learning **MLOps, Data Pipeline**
 
-- 💬 Ask me about **PyTorch, Data Science, Recommender Systems, NLP**
+- 💬 Ask me about **LLM, Prompt Engineering, Azure, PyTorch, Data Science, Recommender Systems, NLP**
 
 - 📫 How to reach me **stolgayldrn@gmail.com** 
 
