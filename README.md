@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MLOps, Data Pipeline**
 
-- 💬 Ask me about **LLM, Prompt Engineering, Azure, PyTorch, Data Science, Recommender Systems, NLP**
+- 💬 Ask me about **LLM, TF, PyTorch, Data Science, Recommender Systems, NLP**
 
 - 📫 How to reach me **stolgayldrn@gmail.com** 
 
