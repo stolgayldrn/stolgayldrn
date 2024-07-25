@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **SaaS with LLM**, specifically **Multi-task classification, RAG** and also **Natural Language Processing**, specifically **Topic Retrieval, Keyword Extraction and Text Classification**
+- 🔭 I’m currently working on **SaaS with Rec Sys**, specifically **Multi-task classification, RAG** and also **Natural Language Processing**, specifically **Topic Retrieval, Keyword Extraction and Text Classification**
 
 - 🌱 I’m currently learning **MLOps, Data Pipeline**
 
